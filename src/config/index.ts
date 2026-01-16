@@ -17,7 +17,8 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/jonathan-emmanuel-02b51823b/" },
     { text: "Instagram", href: "https://instagram.com/jo.subrata" },
   ],
-  socialImage: "/zen-og.png",
+  // socialImage: "/zen-og.png",
+  socialImage: "/sample-profpic.jpg",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
