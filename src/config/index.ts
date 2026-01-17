@@ -34,8 +34,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "Karyamas Plantation",
       position: "Web Developer Intern",
-      startDate: "Feb 2025",
-      endDate: "Feb 2026",
+      startDate: "Feb 2024",
+      endDate: "Feb 2025",
       summary: [
         "In purpose of improving ease of use, I redesigned and reengineered an existing inventory/asset management system (ranging from the regional users in between plantations in Kalimantan till the IT support department at the head office) in monitoring assets (e.g. PCs, printers, etc.) under the company's ownership.",
       ],
